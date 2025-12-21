@@ -2,7 +2,7 @@ title: "Les recettes de Mamie"
 description: "Carnet de cuisine familiale"
 url: "https://mamie-recettes.com"
 baseurl: ""
-logo: "/assets/images/mamie-recettes-logo.png"
+logo: "/assets/images/mamie-recettes-logo-light.png"
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
