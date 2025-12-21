@@ -31,7 +31,7 @@
     font-weight: 600;
   }
   
-  /* Icônes automatiques par ligne (ordre : source, prépa, cuisson, portions) */
+  /* Icônes automatiques par ligne (ordre : chef, prépa, cuisson, portions) */
   .recipe-meta li:nth-child(1)::before {
     content: "👩‍🍳";
   }

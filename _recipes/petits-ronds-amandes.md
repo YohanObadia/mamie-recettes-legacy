@@ -3,7 +3,7 @@ layout: page
 title: "Petits ronds aux amandes"
 meal_type: "Goûter"
 
-source:
+chef:
   person: "Mamie Alice"
   note: ""
 

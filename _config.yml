@@ -2,7 +2,9 @@ title: "Les recettes de Mamie"
 description: "Carnet de cuisine de famille"
 url: "https://mamie-recettes.com"
 baseurl: ""
-
+logo:
+  path: /assets/images/mamie-recettes-logo.png
+  alt: "Les recettes de Mamie"
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 # For local builds (not needed on GitHub Pages, but harmless):

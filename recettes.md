@@ -22,8 +22,8 @@ Les recettes sont classées par type de repas. Choisissez une catégorie ci-dess
           {{ recipe.title }}
         </a>
         <span class="recipe-list-meta">
-          {% if recipe.source and recipe.source.person %}
-            – de {{ recipe.source.person }}
+          {% if recipe.chef and recipe.chef.person %}
+            – de {{ recipe.chef.person }}
           {% endif %}
           {% if recipe.portions %}
             · {{ recipe.portions }} pers.
