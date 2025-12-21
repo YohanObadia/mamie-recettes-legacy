@@ -1,12 +1,12 @@
 {% comment %}
 Affiche les métadonnées d'une recette :
-- chef (personne + note)
+- Chef (personne + note)
 - Temps de préparation / cuisson
 - Portions
 
 Utilise les champs définis dans le front matter :
-- page.chef.person
-- page.chef.note
+- page.Chef.person
+- page.Chef.note
 - page.prep_time_minutes
 - page.cook_time_minutes
 - page.portions
@@ -25,10 +25,10 @@ Utilise les champs définis dans le front matter :
 {% endcapture %}
 
 <ul class="recipe-meta">
-  {% if page.chef and page.chef.person %}
+  {% if page.Chef and page.Chef.person %}
     <li>
-      <strong>chef :</strong>
-      {{ page.chef.person }}{% if page.chef.note %} — {{ page.chef.note }}{% endif %}
+      <strong>Chef :</strong>
+      {{ page.Chef.person }}{% if page.Chef.note and page.Chef.note != "" %} — {{ page.Chef.note }}{% endif %}
     </li>
   {% endif %}
 

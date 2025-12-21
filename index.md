@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Les recettes de Mamie"
+# title: "Les recettes de Mamie"
 permalink: /
 collection: recipes
 
@@ -10,10 +10,10 @@ sort_order: forward
 show_excerpts: false
 ---
 
-Bienvenue sur le carnet de recettes de famille.
+Bienvenue sur le carnet de recettes de la famille.
 
-Ce site rassemble les recettes manuscrites de Mamie, ainsi que celles transmises par les autres membres de la famille.
+Ce site rassemble les recettes manuscrites (ou pas) de Mamie, ainsi que celles transmises par les autres membres de la famille.
 
 Pour commencer, choisissez une recette ci-dessous.
 
-Pour proposer une vidéo d’une recette que vous réalisez, envoyez-la à *Yohan* avec le nom de la recette.
+Pour proposer une recette que vous voulez partager, envoyez-la à Yohan avec le nom de la recette, la description, une photo et en option une vidéo où on peut vous voir !

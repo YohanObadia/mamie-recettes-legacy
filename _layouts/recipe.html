@@ -19,11 +19,11 @@ layout: single
     <h1 class="entry-title">{{ page.title }}</h1>
 
     <div class="entry-meta">
-      {%- if page.chef and page.chef.person -%}
-        <span class="entry-chef">
+      {%- if page.Chef and page.Chef.person -%}
+        <span class="entry-Chef">
           Recette de
-          <strong>{{ page.chef.person }}</strong>
-          {%- if page.chef.note %} — {{ page.chef.note }}{% endif %}
+          <strong>{{ page.Chef.person }}</strong>
+          {%- if page.Chef.note %} — {{ page.Chef.note }}{% endif %}
         </span>
       {%- endif -%}
 

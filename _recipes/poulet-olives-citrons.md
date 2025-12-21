@@ -3,7 +3,7 @@ layout: page
 title: "Poulet aux olives et citron"
 meal_type: "Plat"
 
-chef:
+Chef:
   person: "Mamie Alice"
   note: ""
 

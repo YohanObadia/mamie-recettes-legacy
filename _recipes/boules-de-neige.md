@@ -3,7 +3,7 @@ layout: page
 title: "Boules de neige aux amandes"
 meal_type: "Goûter"
 
-chef:
+Chef:
   person: "Mamie Alice"
   note: ""
 
