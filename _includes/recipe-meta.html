@@ -46,27 +46,21 @@ Utilise les champs définis dans le front matter :
 </ul>
 
 {% if page.video and page.video.type == "youtube" and page.video.url != "" %}
-  {% assign url = page.video.url %}
+  {% assign url = page.video.url | strip %}
   {% assign ytid = "" %}
-  
-  {% comment %}Handle different YouTube URL formats{% endcomment %}
   {% if url contains "youtu.be/" %}
-    {% assign ytid = url | split: "youtu.be/" | last | split: "?" | first | split: "&" | first %}
+    {% assign temp = url | split: "youtu.be/" | last %}
+    {% assign ytid = temp | split: "?" | first | split: "&" | first | split: "/" | first | split: "#" | first %}
   {% elsif url contains "youtube.com/watch?v=" %}
-    {% assign ytid = url | split: "v=" | last | split: "&" | first | split: "#" | first %}
+    {% assign temp = url | split: "v=" | last %}
+    {% assign ytid = temp | split: "&" | first | split: "?" | first | split: "#" | first %}
   {% elsif url contains "youtube.com/embed/" %}
-    {% assign ytid = url | split: "embed/" | last | split: "?" | first | split: "&" | first %}
+    {% assign temp = url | split: "embed/" | last %}
+    {% assign ytid = temp | split: "?" | first | split: "&" | first | split: "#" | first %}
   {% endif %}
-  
   {% if ytid != "" %}
     <div class="responsive-video">
-      <iframe
-        src="https://www.youtube.com/embed/{{ ytid }}"
-        title="Vidéo recette"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen>
-      </iframe>
+      <iframe src="https://www.youtube.com/embed/{{ ytid }}?rel=0&modestbranding=1&enablejsapi=1" title="Vidéo recette" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
     </div>
   {% endif %}
 {% endif %}
