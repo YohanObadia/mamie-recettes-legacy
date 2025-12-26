@@ -9,10 +9,10 @@ portions: 8
 prep_time_minutes: 25
 cook_time_minutes: 50
 image:
-  path: /assets/images/tarte-aux-noix-caramelisees/main.png
-  thumbnail: /assets/images/tarte-aux-noix-caramelisees/main.png
+  path: /assets/images/tarte-aux-noix-caramalisees/main.png
+  thumbnail: /assets/images/tarte-aux-noix-caramalisees/main.png
   photos:
-  - /assets/images/tarte-aux-noix-caramelisees/main.png
+  - /assets/images/tarte-aux-noix-caramalisees/main.png
 video:
   type: youtube
   url: ''
