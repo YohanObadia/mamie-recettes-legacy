@@ -58,13 +58,7 @@ Utilise les champs définis dans le front matter :
     {% assign ytid = v %}
   {% endif %}
 
-  <div class="responsive-video">
-    <iframe
-      src="https://www.youtube.com/embed/{{ ytid }}?rel=0&modestbranding=1"
-      title="Vidéo recette"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen
-      loading="lazy"></iframe>
-  </div>
+<div class="responsive-video" markdown="0">
+<iframe src="https://www.youtube.com/embed/{{ ytid }}?rel=0&modestbranding=1" title="Vidéo recette" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+</div>
 {% endif %}
