@@ -9,10 +9,10 @@ portions: 40
 prep_time_minutes: 35
 cook_time_minutes: 25
 image:
-  path: /assets/images/beignets-au-rhum/main.jpg
-  thumbnail: /assets/images/beignets-au-rhum/main.jpg
+  path: /assets/images/beignets-au-rhum/main.png
+  thumbnail: /assets/images/beignets-au-rhum/main.png
   photos:
-  - /assets/images/beignets-au-rhum/main.jpg
+  - /assets/images/beignets-au-rhum/main.png
 video:
   type: youtube
   url: ''

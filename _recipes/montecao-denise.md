@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 20
 cook_time_minutes: 15
 image:
-  path: /assets/images/montecao-denise/main.jpg
-  thumbnail: /assets/images/montecao-denise/main.jpg
+  path: /assets/images/montecao-denise/main.png
+  thumbnail: /assets/images/montecao-denise/main.png
   photos:
-    - /assets/images/montecao-denise/main.jpg
+    - /assets/images/montecao-denise/main.png
 video:
   type: "youtube"
   url: ""

@@ -9,10 +9,10 @@ portions: 10
 prep_time_minutes: 30
 cook_time_minutes: 35
 image:
-  path: /assets/images/gateau-a-la-chantilly-esther/main.jpg
-  thumbnail: /assets/images/gateau-a-la-chantilly-esther/main.jpg
+  path: /assets/images/gateau-a-la-chantilly-esther/main.png
+  thumbnail: /assets/images/gateau-a-la-chantilly-esther/main.png
   photos:
-    - /assets/images/gateau-a-la-chantilly-esther/main.jpg
+    - /assets/images/gateau-a-la-chantilly-esther/main.png
 video:
   type: "youtube"
   url: ""

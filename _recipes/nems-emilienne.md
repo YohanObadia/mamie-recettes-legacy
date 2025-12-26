@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 40
 cook_time_minutes: 25
 image:
-  path: /assets/images/nems-emilienne/main.jpg
-  thumbnail: /assets/images/nems-emilienne/main.jpg
+  path: /assets/images/nems-emilienne/main.png
+  thumbnail: /assets/images/nems-emilienne/main.png
   photos:
-  - /assets/images/nems-emilienne/main.jpg
+  - /assets/images/nems-emilienne/main.png
 video:
   type: youtube
   url: ''

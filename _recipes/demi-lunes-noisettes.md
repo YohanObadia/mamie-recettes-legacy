@@ -9,10 +9,10 @@ portions: 40
 prep_time_minutes: 20
 cook_time_minutes: 15
 image:
-  path: /assets/images/demi-lunes-noisettes/main.jpg
-  thumbnail: /assets/images/demi-lunes-noisettes/main.jpg
+  path: /assets/images/demi-lunes-noisettes/main.png
+  thumbnail: /assets/images/demi-lunes-noisettes/main.png
   photos:
-    - /assets/images/demi-lunes-noisettes/main.jpg
+    - /assets/images/demi-lunes-noisettes/main.png
 video:
   type: "youtube"
   url: ""

@@ -9,10 +9,10 @@ portions: 8
 prep_time_minutes: 30
 cook_time_minutes: 30
 image:
-  path: /assets/images/tarte-aux-poires-creme/main.jpg
-  thumbnail: /assets/images/tarte-aux-poires-creme/main.jpg
+  path: /assets/images/tarte-aux-poires-creme/main.png
+  thumbnail: /assets/images/tarte-aux-poires-creme/main.png
   photos:
-    - /assets/images/tarte-aux-poires-creme/main.jpg
+    - /assets/images/tarte-aux-poires-creme/main.png
 video:
   type: "youtube"
   url: ""

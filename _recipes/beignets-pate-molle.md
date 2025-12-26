@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 20
 cook_time_minutes: 20
 image:
-  path: /assets/images/beignets-pate-molle/main.jpg
-  thumbnail: /assets/images/beignets-pate-molle/main.jpg
+  path: /assets/images/beignets-pate-molle/main.png
+  thumbnail: /assets/images/beignets-pate-molle/main.png
   photos:
-  - /assets/images/beignets-pate-molle/main.jpg
+  - /assets/images/beignets-pate-molle/main.png
 video:
   type: youtube
   url: ''

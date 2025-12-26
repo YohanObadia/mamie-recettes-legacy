@@ -9,10 +9,10 @@ portions: 12
 prep_time_minutes: 25
 cook_time_minutes: 40
 image:
-  path: /assets/images/gateau-aux-noix-denise/main.jpg
-  thumbnail: /assets/images/gateau-aux-noix-denise/main.jpg
+  path: /assets/images/gateau-aux-noix-denise/main.png
+  thumbnail: /assets/images/gateau-aux-noix-denise/main.png
   photos:
-    - /assets/images/gateau-aux-noix-denise/main.jpg
+    - /assets/images/gateau-aux-noix-denise/main.png
 video:
   type: "youtube"
   url: ""

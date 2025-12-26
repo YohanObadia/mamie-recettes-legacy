@@ -9,10 +9,10 @@ portions: 10
 prep_time_minutes: 25
 cook_time_minutes: 35
 image:
-  path: /assets/images/gateau-au-chocolat-paques/main.jpg
-  thumbnail: /assets/images/gateau-au-chocolat-paques/main.jpg
+  path: /assets/images/gateau-au-chocolat-paques/main.png
+  thumbnail: /assets/images/gateau-au-chocolat-paques/main.png
   photos:
-  - /assets/images/gateau-au-chocolat-paques/main.jpg
+  - /assets/images/gateau-au-chocolat-paques/main.png
 video:
   type: youtube
   url: ''

@@ -9,10 +9,10 @@ portions: 32
 prep_time_minutes: 35
 cook_time_minutes: 15
 image:
-  path: /assets/images/biscuits-roules-aux-dattes/main.jpg
-  thumbnail: /assets/images/biscuits-roules-aux-dattes/main.jpg
+  path: /assets/images/biscuits-roules-aux-dattes/main.png
+  thumbnail: /assets/images/biscuits-roules-aux-dattes/main.png
   photos:
-    - /assets/images/biscuits-roules-aux-dattes/main.jpg
+    - /assets/images/biscuits-roules-aux-dattes/main.png
 video:
   type: "youtube"
   url: ""

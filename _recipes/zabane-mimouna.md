@@ -9,10 +9,10 @@ portions: 12
 prep_time_minutes: 15
 cook_time_minutes: 15
 image:
-  path: /assets/images/zabane-mimouna/main.jpg
-  thumbnail: /assets/images/zabane-mimouna/main.jpg
+  path: /assets/images/zabane-mimouna/main.png
+  thumbnail: /assets/images/zabane-mimouna/main.png
   photos:
-  - /assets/images/zabane-mimouna/main.jpg
+  - /assets/images/zabane-mimouna/main.png
 video:
   type: youtube
   url: ''

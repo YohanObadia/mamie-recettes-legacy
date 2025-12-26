@@ -9,10 +9,10 @@ portions: 12
 prep_time_minutes: 25
 cook_time_minutes: 30
 image:
-  path: /assets/images/gateau-de-paques-aux-noix/main.jpg
-  thumbnail: /assets/images/gateau-de-paques-aux-noix/main.jpg
+  path: /assets/images/gateau-de-paques-aux-noix/main.png
+  thumbnail: /assets/images/gateau-de-paques-aux-noix/main.png
   photos:
-    - /assets/images/gateau-de-paques-aux-noix/main.jpg
+    - /assets/images/gateau-de-paques-aux-noix/main.png
 video:
   type: "youtube"
   url: ""

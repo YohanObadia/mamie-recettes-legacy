@@ -3,16 +3,16 @@ layout: page
 title: "Gâteau de semoule aux amandes et fleur d’oranger"
 meal_type: "Dessert"
 Chef:
-  person: "Larissa Wizo"
+  person: "Mamie Alice"
   note: ""
 portions: 12
 prep_time_minutes: 20
 cook_time_minutes: 40
 image:
-  path: /assets/images/gateau-semolina-amandes-fleur-oranger/main.jpg
-  thumbnail: /assets/images/gateau-semolina-amandes-fleur-oranger/main.jpg
+  path: /assets/images/gateau-semolina-amandes-fleur-oranger/main.png
+  thumbnail: /assets/images/gateau-semolina-amandes-fleur-oranger/main.png
   photos:
-    - /assets/images/gateau-semolina-amandes-fleur-oranger/main.jpg
+    - /assets/images/gateau-semolina-amandes-fleur-oranger/main.png
 video:
   type: "youtube"
   url: ""

@@ -9,10 +9,10 @@ portions: 16
 prep_time_minutes: 20
 cook_time_minutes: 50
 image:
-  path: /assets/images/cake-orange-2-cakes/main.jpg
-  thumbnail: /assets/images/cake-orange-2-cakes/main.jpg
+  path: /assets/images/cake-orange-2-cakes/main.png
+  thumbnail: /assets/images/cake-orange-2-cakes/main.png
   photos:
-  - /assets/images/cake-orange-2-cakes/main.jpg
+  - /assets/images/cake-orange-2-cakes/main.png
 video:
   type: youtube
   url: ''

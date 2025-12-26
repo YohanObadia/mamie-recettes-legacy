@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 40
 cook_time_minutes: 20
 image:
-  path: /assets/images/les-petites-roses/main.jpg
-  thumbnail: /assets/images/les-petites-roses/main.jpg
+  path: /assets/images/les-petites-roses/main.png
+  thumbnail: /assets/images/les-petites-roses/main.png
   photos:
-  - /assets/images/les-petites-roses/main.jpg
+  - /assets/images/les-petites-roses/main.png
 video:
   type: youtube
   url: ''

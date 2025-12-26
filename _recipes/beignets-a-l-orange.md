@@ -9,10 +9,10 @@ portions: 40
 prep_time_minutes: 25
 cook_time_minutes: 25
 image:
-  path: /assets/images/beignets-a-l-orange/main.jpg
-  thumbnail: /assets/images/beignets-a-l-orange/main.jpg
+  path: /assets/images/beignets-a-l-orange/main.png
+  thumbnail: /assets/images/beignets-a-l-orange/main.png
   photos:
-  - /assets/images/beignets-a-l-orange/main.jpg
+  - /assets/images/beignets-a-l-orange/main.png
 video:
   type: youtube
   url: ''

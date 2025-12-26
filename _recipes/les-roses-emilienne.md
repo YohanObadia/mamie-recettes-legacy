@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 35
 cook_time_minutes: 15
 image:
-  path: /assets/images/les-roses-emilienne/main.jpg
-  thumbnail: /assets/images/les-roses-emilienne/main.jpg
+  path: /assets/images/les-roses-emilienne/main.png
+  thumbnail: /assets/images/les-roses-emilienne/main.png
   photos:
-    - /assets/images/les-roses-emilienne/main.jpg
+    - /assets/images/les-roses-emilienne/main.png
 video:
   type: "youtube"
   url: ""

@@ -9,10 +9,10 @@ portions: 10
 prep_time_minutes: 10
 cook_time_minutes: 45
 image:
-  path: /assets/images/gateau-martine/main.jpg
-  thumbnail: /assets/images/gateau-martine/main.jpg
+  path: /assets/images/gateau-martine/main.png
+  thumbnail: /assets/images/gateau-martine/main.png
   photos:
-    - /assets/images/gateau-martine/main.jpg
+    - /assets/images/gateau-martine/main.png
 video:
   type: "youtube"
   url: ""
@@ -20,7 +20,7 @@ ingredients:
   - name: "Poudre spéciale L.A"
     quantity: 1
     unit: "boîte"
-    note: "à confirmer (anciennement noté L.R)"
+    note: "à confirmer"
   - name: "Gélo chocolat"
     quantity: "1/2"
     unit: "sachet"

@@ -9,10 +9,10 @@ portions: 35
 prep_time_minutes: 20
 cook_time_minutes: 15
 image:
-  path: /assets/images/couronnes-emilienne/main.jpg
-  thumbnail: /assets/images/couronnes-emilienne/main.jpg
+  path: /assets/images/couronnes-emilienne/main.png
+  thumbnail: /assets/images/couronnes-emilienne/main.png
   photos:
-    - /assets/images/couronnes-emilienne/main.jpg
+    - /assets/images/couronnes-emilienne/main.png
 video:
   type: "youtube"
   url: ""

@@ -9,10 +9,10 @@ portions: 20
 prep_time_minutes: 20
 cook_time_minutes: 25
 image:
-  path: /assets/images/brownie-esther/main.jpg
-  thumbnail: /assets/images/brownie-esther/main.jpg
+  path: /assets/images/brownie-esther/main.png
+  thumbnail: /assets/images/brownie-esther/main.png
   photos:
-    - /assets/images/brownie-esther/main.jpg
+    - /assets/images/brownie-esther/main.png
 video:
   type: "youtube"
   url: ""

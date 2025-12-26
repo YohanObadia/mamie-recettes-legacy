@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 20
 cook_time_minutes: 25
 image:
-  path: /assets/images/petits-beignets-en-syrop/main.jpg
-  thumbnail: /assets/images/petits-beignets-en-syrop/main.jpg
+  path: /assets/images/petits-beignets-en-syrop/main.png
+  thumbnail: /assets/images/petits-beignets-en-syrop/main.png
   photos:
-  - /assets/images/petits-beignets-en-syrop/main.jpg
+  - /assets/images/petits-beignets-en-syrop/main.png
 video:
   type: youtube
   url: ''

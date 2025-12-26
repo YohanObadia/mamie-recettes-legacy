@@ -9,10 +9,10 @@ portions: 40
 prep_time_minutes: 25
 cook_time_minutes: 18
 image:
-  path: /assets/images/biscuits-coco/main.jpg
-  thumbnail: /assets/images/biscuits-coco/main.jpg
+  path: /assets/images/biscuits-coco/main.png
+  thumbnail: /assets/images/biscuits-coco/main.png
   photos:
-  - /assets/images/biscuits-coco/main.jpg
+  - /assets/images/biscuits-coco/main.png
 video:
   type: youtube
   url: ''

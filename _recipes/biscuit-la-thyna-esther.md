@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 20
 cook_time_minutes: 15
 image:
-  path: /assets/images/biscuit-la-thyna-esther/main.jpg
-  thumbnail: /assets/images/biscuit-la-thyna-esther/main.jpg
+  path: /assets/images/biscuit-la-thyna-esther/main.png
+  thumbnail: /assets/images/biscuit-la-thyna-esther/main.png
   photos:
-  - /assets/images/biscuit-la-thyna-esther/main.jpg
+  - /assets/images/biscuit-la-thyna-esther/main.png
 video:
   type: youtube
   url: ''

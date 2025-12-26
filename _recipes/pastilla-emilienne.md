@@ -9,10 +9,10 @@ portions: 8
 prep_time_minutes: 60
 cook_time_minutes: 70
 image:
-  path: /assets/images/pastilla-emilienne/main.jpg
-  thumbnail: /assets/images/pastilla-emilienne/main.jpg
+  path: /assets/images/pastilla-emilienne/main.png
+  thumbnail: /assets/images/pastilla-emilienne/main.png
   photos:
-  - /assets/images/pastilla-emilienne/main.jpg
+  - /assets/images/pastilla-emilienne/main.png
 video:
   type: youtube
   url: ''

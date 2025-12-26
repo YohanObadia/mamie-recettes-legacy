@@ -9,10 +9,10 @@ portions: 10
 prep_time_minutes: 20
 cook_time_minutes: 0
 image:
-  path: /assets/images/nougat-glace/main.jpg
-  thumbnail: /assets/images/nougat-glace/main.jpg
+  path: /assets/images/nougat-glace/main.png
+  thumbnail: /assets/images/nougat-glace/main.png
   photos:
-  - /assets/images/nougat-glace/main.jpg
+  - /assets/images/nougat-glace/main.png
 video:
   type: youtube
   url: ''

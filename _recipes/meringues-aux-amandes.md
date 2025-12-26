@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 20
 cook_time_minutes: 75
 image:
-  path: /assets/images/meringues-aux-amandes/main.jpg
-  thumbnail: /assets/images/meringues-aux-amandes/main.jpg
+  path: /assets/images/meringues-aux-amandes/main.png
+  thumbnail: /assets/images/meringues-aux-amandes/main.png
   photos:
-  - /assets/images/meringues-aux-amandes/main.jpg
+  - /assets/images/meringues-aux-amandes/main.png
 video:
   type: youtube
   url: ''

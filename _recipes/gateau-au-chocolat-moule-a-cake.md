@@ -9,10 +9,10 @@ portions: 10
 prep_time_minutes: 15
 cook_time_minutes: 15
 image:
-  path: /assets/images/gateau-au-chocolat-moule-a-cake/main.jpg
-  thumbnail: /assets/images/gateau-au-chocolat-moule-a-cake/main.jpg
+  path: /assets/images/gateau-au-chocolat-moule-a-cake/main.png
+  thumbnail: /assets/images/gateau-au-chocolat-moule-a-cake/main.png
   photos:
-    - /assets/images/gateau-au-chocolat-moule-a-cake/main.jpg
+    - /assets/images/gateau-au-chocolat-moule-a-cake/main.png
 video:
   type: "youtube"
   url: ""

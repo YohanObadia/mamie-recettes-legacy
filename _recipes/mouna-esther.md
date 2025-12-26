@@ -9,10 +9,10 @@ portions: 10
 prep_time_minutes: 25
 cook_time_minutes: 30
 image:
-  path: /assets/images/mouna-esther/main.jpg
-  thumbnail: /assets/images/mouna-esther/main.jpg
+  path: /assets/images/mouna-esther/main.png
+  thumbnail: /assets/images/mouna-esther/main.png
   photos:
-    - /assets/images/mouna-esther/main.jpg
+    - /assets/images/mouna-esther/main.png
 video:
   type: "youtube"
   url: ""

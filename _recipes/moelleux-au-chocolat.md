@@ -9,10 +9,10 @@ portions: 10
 prep_time_minutes: 20
 cook_time_minutes: 22
 image:
-  path: /assets/images/moelleux-au-chocolat/main.jpg
-  thumbnail: /assets/images/moelleux-au-chocolat/main.jpg
+  path: /assets/images/moelleux-au-chocolat/main.png
+  thumbnail: /assets/images/moelleux-au-chocolat/main.png
   photos:
-  - /assets/images/moelleux-au-chocolat/main.jpg
+  - /assets/images/moelleux-au-chocolat/main.png
 video:
   type: youtube
   url: ''

@@ -9,10 +9,10 @@ portions: 24
 prep_time_minutes: 15
 cook_time_minutes: 12
 image:
-  path: /assets/images/madeleines/main.jpg
-  thumbnail: /assets/images/madeleines/main.jpg
+  path: /assets/images/madeleines/main.png
+  thumbnail: /assets/images/madeleines/main.png
   photos:
-  - /assets/images/madeleines/main.jpg
+  - /assets/images/madeleines/main.png
 video:
   type: youtube
   url: ''

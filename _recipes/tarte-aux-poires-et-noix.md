@@ -9,10 +9,10 @@ portions: 8
 prep_time_minutes: 20
 cook_time_minutes: 40
 image:
-  path: /assets/images/tarte-aux-poires-et-noix/main.jpg
-  thumbnail: /assets/images/tarte-aux-poires-et-noix/main.jpg
+  path: /assets/images/tarte-aux-poires-et-noix/main.png
+  thumbnail: /assets/images/tarte-aux-poires-et-noix/main.png
   photos:
-    - /assets/images/tarte-aux-poires-et-noix/main.jpg
+    - /assets/images/tarte-aux-poires-et-noix/main.png
 video:
   type: "youtube"
   url: ""

@@ -9,10 +9,10 @@ portions: 16
 prep_time_minutes: 15
 cook_time_minutes: 30
 image:
-  path: /assets/images/brownie-yvette/main.jpg
-  thumbnail: /assets/images/brownie-yvette/main.jpg
+  path: /assets/images/brownie-yvette/main.png
+  thumbnail: /assets/images/brownie-yvette/main.png
   photos:
-    - /assets/images/brownie-yvette/main.jpg
+    - /assets/images/brownie-yvette/main.png
 video:
   type: "youtube"
   url: ""

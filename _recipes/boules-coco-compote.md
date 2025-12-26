@@ -9,10 +9,10 @@ portions: 18
 prep_time_minutes: 15
 cook_time_minutes: 12
 image:
-  path: /assets/images/boules-coco-compote/main.jpg
-  thumbnail: /assets/images/boules-coco-compote/main.jpg
+  path: /assets/images/boules-coco-compote/main.png
+  thumbnail: /assets/images/boules-coco-compote/main.png
   photos:
-  - /assets/images/boules-coco-compote/main.jpg
+  - /assets/images/boules-coco-compote/main.png
 video:
   type: youtube
   url: ''

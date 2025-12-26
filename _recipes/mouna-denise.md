@@ -9,10 +9,10 @@ portions: 16
 prep_time_minutes: 45
 cook_time_minutes: 35
 image:
-  path: /assets/images/mouna-denise/main.jpg
-  thumbnail: /assets/images/mouna-denise/main.jpg
+  path: /assets/images/mouna-denise/main.png
+  thumbnail: /assets/images/mouna-denise/main.png
   photos:
-    - /assets/images/mouna-denise/main.jpg
+    - /assets/images/mouna-denise/main.png
 video:
   type: "youtube"
   url: ""

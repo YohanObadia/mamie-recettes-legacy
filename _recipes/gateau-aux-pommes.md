@@ -9,10 +9,10 @@ portions: 10
 prep_time_minutes: 15
 cook_time_minutes: 40
 image:
-  path: /assets/images/gateau-aux-pommes/main.jpg
-  thumbnail: /assets/images/gateau-aux-pommes/main.jpg
+  path: /assets/images/gateau-aux-pommes/main.png
+  thumbnail: /assets/images/gateau-aux-pommes/main.png
   photos:
-    - /assets/images/gateau-aux-pommes/main.jpg
+    - /assets/images/gateau-aux-pommes/main.png
 video:
   type: "youtube"
   url: ""

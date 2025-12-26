@@ -9,10 +9,10 @@ portions: 8
 prep_time_minutes: 30
 cook_time_minutes: 40
 image:
-  path: /assets/images/tarte-chocolat-poires/main.jpg
-  thumbnail: /assets/images/tarte-chocolat-poires/main.jpg
+  path: /assets/images/tarte-chocolat-poires/main.png
+  thumbnail: /assets/images/tarte-chocolat-poires/main.png
   photos:
-  - /assets/images/tarte-chocolat-poires/main.jpg
+  - /assets/images/tarte-chocolat-poires/main.png
 video:
   type: youtube
   url: ''

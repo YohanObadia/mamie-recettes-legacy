@@ -9,10 +9,10 @@ portions: 40
 prep_time_minutes: 25
 cook_time_minutes: 12
 image:
-  path: /assets/images/biscuits-emilienne/main.jpg
-  thumbnail: /assets/images/biscuits-emilienne/main.jpg
+  path: /assets/images/biscuits-emilienne/main.png
+  thumbnail: /assets/images/biscuits-emilienne/main.png
   photos:
-    - /assets/images/biscuits-emilienne/main.jpg
+    - /assets/images/biscuits-emilienne/main.png
 video:
   type: "youtube"
   url: ""

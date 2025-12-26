@@ -9,10 +9,10 @@ portions: 20
 prep_time_minutes: 20
 cook_time_minutes: 15
 image:
-  path: /assets/images/yoyo/main.jpg
-  thumbnail: /assets/images/yoyo/main.jpg
+  path: /assets/images/yoyo/main.png
+  thumbnail: /assets/images/yoyo/main.png
   photos:
-    - /assets/images/yoyo/main.jpg
+    - /assets/images/yoyo/main.png
 video:
   type: "youtube"
   url: ""

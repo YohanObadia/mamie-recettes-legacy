@@ -9,10 +9,10 @@ portions: 25
 prep_time_minutes: 60
 cook_time_minutes: 10
 image:
-  path: /assets/images/macarons-au-caf/main.jpg
-  thumbnail: /assets/images/macarons-au-caf/main.jpg
+  path: /assets/images/macarons-au-caf/main.png
+  thumbnail: /assets/images/macarons-au-caf/main.png
   photos:
-  - /assets/images/macarons-au-caf/main.jpg
+  - /assets/images/macarons-au-caf/main.png
 video:
   type: youtube
   url: ''

@@ -9,10 +9,10 @@ portions: 10
 prep_time_minutes: 15
 cook_time_minutes: 30
 image:
-  path: /assets/images/cake-denise/main.jpg
-  thumbnail: /assets/images/cake-denise/main.jpg
+  path: /assets/images/cake-denise/main.png
+  thumbnail: /assets/images/cake-denise/main.png
   photos:
-  - /assets/images/cake-denise/main.jpg
+  - /assets/images/cake-denise/main.png
 video:
   type: youtube
   url: ''

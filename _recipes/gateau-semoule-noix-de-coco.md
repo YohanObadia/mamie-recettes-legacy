@@ -9,10 +9,10 @@ portions: 12
 prep_time_minutes: 20
 cook_time_minutes: 40
 image:
-  path: /assets/images/gateau-semoule-noix-de-coco/main.jpg
-  thumbnail: /assets/images/gateau-semoule-noix-de-coco/main.jpg
+  path: /assets/images/gateau-semoule-noix-de-coco/main.png
+  thumbnail: /assets/images/gateau-semoule-noix-de-coco/main.png
   photos:
-  - /assets/images/gateau-semoule-noix-de-coco/main.jpg
+  - /assets/images/gateau-semoule-noix-de-coco/main.png
 video:
   type: youtube
   url: ''

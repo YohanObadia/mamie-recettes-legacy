@@ -9,10 +9,10 @@ portions: 12
 prep_time_minutes: 15
 cook_time_minutes: 40
 image:
-  path: /assets/images/gateau-jocelyne/main.jpg
-  thumbnail: /assets/images/gateau-jocelyne/main.jpg
+  path: /assets/images/gateau-chocolat/main.png
+  thumbnail: /assets/images/gateau-chocolat/main.png
   photos:
-    - /assets/images/gateau-jocelyne/main.jpg
+    - /assets/images/gateau-chocolat/main.png
 video:
   type: "youtube"
   url: ""

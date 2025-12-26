@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 15
 cook_time_minutes: 10
 image:
-  path: /assets/images/nougat-cacahuetes/main.jpg
-  thumbnail: /assets/images/nougat-cacahuetes/main.jpg
+  path: /assets/images/nougat-cacahuetes/main.png
+  thumbnail: /assets/images/nougat-cacahuetes/main.png
   photos:
-    - /assets/images/nougat-cacahuetes/main.jpg
+    - /assets/images/nougat-cacahuetes/main.png
 video:
   type: "youtube"
   url: ""

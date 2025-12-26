@@ -9,10 +9,10 @@ portions: 30
 prep_time_minutes: 20
 cook_time_minutes: 12
 image:
-  path: /assets/images/biscuit-hachoir-avec-entonnoir/main.jpg
-  thumbnail: /assets/images/biscuit-hachoir-avec-entonnoir/main.jpg
+  path: /assets/images/biscuit-hachoir-avec-entonnoir/main.png
+  thumbnail: /assets/images/biscuit-hachoir-avec-entonnoir/main.png
   photos:
-    - /assets/images/biscuit-hachoir-avec-entonnoir/main.jpg
+    - /assets/images/biscuit-hachoir-avec-entonnoir/main.png
 video:
   type: "youtube"
   url: ""
