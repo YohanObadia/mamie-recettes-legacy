@@ -9,10 +9,10 @@ portions: 20
 prep_time_minutes: 10
 cook_time_minutes: 22
 image:
-  path: /assets/images/gateau-amandes/main.jpg
-  thumbnail: /assets/images/gateau-amandes/main.jpg
+  path: /assets/images/gateau-amandes/main.png
+  thumbnail: /assets/images/gateau-amandes/main.png
   photos:
-  - /assets/images/gateau-amandes/main.jpg
+  - /assets/images/gateau-amandes/main.png
 video:
   type: youtube
   url: ''
