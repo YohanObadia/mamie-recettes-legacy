@@ -45,22 +45,26 @@ Utilise les champs définis dans le front matter :
   {% endif %}
 </ul>
 
-{% if page.video and page.video.type == "youtube" and page.video.url != "" %}
-  {% assign url = page.video.url | strip %}
-  {% assign ytid = "" %}
-  {% if url contains "youtu.be/" %}
-    {% assign temp = url | split: "youtu.be/" | last %}
-    {% assign ytid = temp | split: "?" | first | split: "&" | first | split: "/" | first | split: "#" | first %}
-  {% elsif url contains "youtube.com/watch?v=" %}
-    {% assign temp = url | split: "v=" | last %}
-    {% assign ytid = temp | split: "&" | first | split: "?" | first | split: "#" | first %}
-  {% elsif url contains "youtube.com/embed/" %}
-    {% assign temp = url | split: "embed/" | last %}
-    {% assign ytid = temp | split: "?" | first | split: "&" | first | split: "#" | first %}
+{% if page.video and page.video.type == "youtube" and page.video.url and page.video.url != "" %}
+  {% assign v = page.video.url | strip %}
+
+  {% if v contains "youtube.com/watch" %}
+    {% assign ytid = v | split: "v=" | last | split: "&" | first %}
+  {% elsif v contains "youtu.be/" %}
+    {% assign ytid = v | split: "youtu.be/" | last | split: "?" | first %}
+  {% elsif v contains "youtube.com/embed/" %}
+    {% assign ytid = v | split: "embed/" | last | split: "?" | first %}
+  {% else %}
+    {% assign ytid = v %}
   {% endif %}
-  {% if ytid != "" %}
-    <div class="responsive-video">
-      <iframe src="https://www.youtube.com/embed/{{ ytid }}?rel=0&modestbranding=1&enablejsapi=1" title="Vidéo recette" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
-    </div>
-  {% endif %}
+
+  <div class="responsive-video">
+    <iframe
+      src="https://www.youtube.com/embed/{{ ytid }}?rel=0&modestbranding=1"
+      title="Vidéo recette"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      loading="lazy"></iframe>
+  </div>
 {% endif %}

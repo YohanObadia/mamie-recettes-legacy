@@ -23,6 +23,11 @@ defaults:
       layout: recipe
 
 markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+  parse_span_html: true
+
 highlighter: rouge
 
 sass:
