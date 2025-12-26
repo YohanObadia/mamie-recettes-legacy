@@ -44,3 +44,16 @@ Utilise les champs définis dans le front matter :
     <li><strong>Portions :</strong> {{ page.portions }}</li>
   {% endif %}
 </ul>
+
+{% if page.video and page.video.type == "youtube" and page.video.url != "" %}
+  {% assign ytid = page.video.url | split: 'v=' | last | split: '&' | first %}
+  <div class="responsive-video">
+    <iframe
+      src="https://www.youtube.com/embed/{{ ytid }}"
+      title="Vidéo recette"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+{% endif %}

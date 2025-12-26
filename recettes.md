@@ -4,9 +4,6 @@ title: "Toutes les recettes"
 permalink: /recettes/
 ---
 
-# Toutes les recettes
-
-Les recettes sont classées par type de repas. Choisissez une catégorie ci-dessous.
 
 {% assign all_recipes = site.recipes | sort: 'title' %}
 {% assign meal_types = "Entrée,Plat,Dessert,Goûter,Petit-déjeuner,Apéritif,Boisson" | split: "," %}

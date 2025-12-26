@@ -53,9 +53,26 @@
     .recipe-meta {
       gap: 0.35rem 1rem;
     }
-  
+
     .recipe-meta li {
       white-space: normal;
     }
+  }
+
+  /* Conteneur vidéo responsive */
+  .responsive-video {
+    position: relative;
+    padding-bottom: 56.25%; /* Ratio 16:9 */
+    height: 0;
+    overflow: hidden;
+    margin: 2rem 0;
+  }
+
+  .responsive-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
   

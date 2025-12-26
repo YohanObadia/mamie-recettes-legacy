@@ -21,7 +21,7 @@ photos:
 
 video:
   type: "youtube"
-  url: ""
+  url: "https://youtu.be/GqyXSf3A2eM"
 
 ingredients:
   - name: "Olives dénoyautées"
