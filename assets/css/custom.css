@@ -75,4 +75,29 @@
     width: 100%;
     height: 100%;
   }
-  
+
+  /* --- Landing page: uniformiser les images des cartes (sans déformer) --- */
+/* La home utilise layout: collection + entries_layout: grid */
+.entries-grid .entry .entry-image,
+.entries-grid .entry .entry__thumbnail,
+.entries-grid .entry .entry-thumbnail {
+  aspect-ratio: 4 / 3;   /* ajuster si tu préfères 1/1 ou 3/2 */
+  overflow: hidden;
+}
+
+.entries-grid .entry .entry-image img,
+.entries-grid .entry .entry__thumbnail img,
+.entries-grid .entry .entry-thumbnail img,
+.entries-grid .entry img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;     /* crop propre */
+  display: block;
+}
+
+/* Optionnel : évite les sauts de layout pendant le chargement */
+.entries-grid .entry .entry-image img,
+.entries-grid .entry .entry__thumbnail img,
+.entries-grid .entry .entry-thumbnail img {
+  background: #f2f2f2;
+}
